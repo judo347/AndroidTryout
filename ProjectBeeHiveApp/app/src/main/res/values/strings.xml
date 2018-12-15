@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BeeHive Simulator</string>
+    <string name="start_button">Start</string>
+    <string name="options_button">Options</string>
+    <string name="exit_button">Exit</string>
+    <string name="text_game_tittle">BeeHive Simulator</string>
+</resources>
